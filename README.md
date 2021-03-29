@@ -15,3 +15,6 @@ Identifies Hand-Written Digits Correctly Approximately 97% of the time
 ############################################################################
 To run Ensure all Tensorflow, Matplotlib.pyplot and Numpy Dependencies are
         installed on your version of Python
+       
+MNIST Digit Dataset belongs to NIST, the National Institute of Science and
+        Technology and provided by tensorflow.keras
